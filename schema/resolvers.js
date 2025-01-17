@@ -19,5 +19,8 @@ const resolvers = {
             return movie;
         },
     },
+    User: {
+        
+    }
 };
 module.exports = {resolvers};
